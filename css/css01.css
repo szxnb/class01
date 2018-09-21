@@ -9,7 +9,7 @@ body{
 	/*background:#F5F5F5;*/
 	margin: 0 auto;
 	width: 1998px;
-	background: url(../img/gate.jpg) no-repeat top center;
+	background: url(../img/gate.jpg) repeat-y top center;
 }
 
 
