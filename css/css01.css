@@ -23,7 +23,7 @@ body{
 {
 	padding: 18em 10em 20em 10em;
 	position: relative;
-	background: url(../gate.jpg) no-repeat top center;
+	background: url(../img/gate.jpg) no-repeat top center;
 	background-attachment: fixed;
 	background-size: cover;
 	text-align:center;
