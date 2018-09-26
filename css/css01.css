@@ -281,7 +281,7 @@ body{
 
 .middle
 {
-	background-image: url("../img/train.jpg");
+	background-image: url(../img/train.jpg);
 	background-size: 1998px;
 	height: 800px;
 }
