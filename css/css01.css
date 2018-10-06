@@ -145,6 +145,10 @@ body{
 	display: none;
 }
 
+.marquee{
+height:850px;
+}
+
 #feature
 {
 	padding:1.5em 0;
